@@ -1,0 +1,12 @@
+Django==2.1.5
+django-autoslug-iplweb==1.9.4
+django-bootstrap-form==3.4
+django-ckeditor==5.6.1
+django-filter==2.1.0
+django-js-asset==1.1.0
+djangorestframework==3.9.1
+Markdown==3.0.1
+Pillow==5.4.1
+pytz==2018.9
+reportlab==3.5.13
+sorl-thumbnail==12.5.0
