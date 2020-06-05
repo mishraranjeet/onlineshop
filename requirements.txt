@@ -1,4 +1,4 @@
-Django==2.1.5
+Django==2.2.13
 django-autoslug-iplweb==1.9.4
 django-bootstrap-form==3.4
 django-ckeditor==5.6.1
